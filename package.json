@@ -1,0 +1,35 @@
+{
+  "name": "tyler_react_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wp": "webpack -w",
+    "production": "webpack -p"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8"
+  },
+  "devDependencies": {
+    "babel-core": "^6.7.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "eslint": "^2.6.0",
+    "eslint-plugin-react": "^4.2.3",
+    "html-webpack-plugin": "^2.15.0",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felicedeNigris/TylerReactCourse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felicedeNigris/TylerReactCourse/issues"
+  },
+  "homepage": "https://github.com/felicedeNigris/TylerReactCourse#readme"
+}
