@@ -1,6 +1,6 @@
-const React = require('react')
+var React = require('react')
 
-const Main = React.createClass({
+var Main = React.createClass({
   render: function(){
     return (
       <div className='main-container'>

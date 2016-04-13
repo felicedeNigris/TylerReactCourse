@@ -1,8 +1,8 @@
-const React = require('react')
-const transparentBg = require('../styles').transparentBg
-const ReactRouter = require('react-router')
-const Link = ReactRouter.Link
-const Home = React.createClass({
+var React = require('react')
+var transparentBg = require('../styles').transparentBg
+var ReactRouter = require('react-router')
+var Link = ReactRouter.Link
+var Home = React.createClass({
   render: function(){
     return (
       <div className="jumbotron col-sm-12 text-center" style={transparentBg}>
